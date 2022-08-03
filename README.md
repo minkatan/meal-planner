@@ -1,3 +1,10 @@
+[ ] add a checkbox button for vegetarian
+[ ] update selected to single select, check headless ui
+[ ] create a form from selected item and store in mongodb(refer to marketplace form)
+[ ] post form into mongodb
+[ ] generate week dinner plan based on recipe store in mongodb
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
